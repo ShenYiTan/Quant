@@ -1,0 +1,8 @@
+python-dotenv
+requests
+pandas
+tqdm
+matplotlib
+numpy
+seaborn
+python-dotenv
